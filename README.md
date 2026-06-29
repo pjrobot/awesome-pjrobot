@@ -7,10 +7,9 @@ A curated list of software and tools I use and recommend.
 ## Contents
 
 - [AI](#ai)
-- [Networking](#networking)
+- [Infrastructure](#infrastructure)
 - [Photography](#photography)
 - [Security & Privacy](#security--privacy)
-- [Web & Hosting](#web--hosting)
 
 ---
 
@@ -20,8 +19,10 @@ A curated list of software and tools I use and recommend.
 
 ---
 
-## Networking
+## Infrastructure
 
+- [Porkbun](https://porkbun.com/) — Affordable domain registrar with 500+ TLDs and free WHOIS privacy, SSL certificates, and email forwarding included with every domain. Competitive pricing with no upsells for standard privacy and security features.
+- [Proxmox](https://www.proxmox.com/en/) — Open-source virtualisation platform for running VMs and containers with a web-based management interface. Supports clustering, high availability, and built-in backup. Free to use; enterprise support subscriptions available.
 - [Tailscale](https://tailscale.com/) — Zero-config mesh VPN built on WireGuard. Connects all your devices and servers into a private network that works across NAT and firewalls, with identity-based access control. Free for personal use.
 
 ---
@@ -35,9 +36,3 @@ A curated list of software and tools I use and recommend.
 ## Security & Privacy
 
 - [Cryptomator](https://cryptomator.org/) — Free, open-source client-side encryption for cloud storage. Creates password-protected vaults that encrypt your files and filenames locally before they ever reach Google Drive, Dropbox, OneDrive, or any other cloud provider. Desktop is free; mobile apps are a one-time purchase.
-
----
-
-## Web & Hosting
-
-- [Porkbun](https://porkbun.com/) — Affordable domain registrar with 500+ TLDs and free WHOIS privacy, SSL certificates, and email forwarding included with every domain. Competitive pricing with no upsells for standard privacy and security features.
