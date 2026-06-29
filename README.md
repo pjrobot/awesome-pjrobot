@@ -24,6 +24,7 @@ A curated list of software and tools I use and recommend.
 
 ## Development
 
+- [Rust](https://www.rust-lang.org/) — Free, open-source systems programming language focused on performance, reliability, and memory safety without a garbage collector. Its ownership model eliminates whole classes of bugs at compile time, making it well-suited for CLI tools, networking, WebAssembly, and embedded systems.
 - [VS Code](https://code.visualstudio.com/) — Free, open-source code editor by Microsoft. Supports 80+ languages with intelligent completions, an integrated terminal, debugger, and Git. Highly extensible via a large marketplace of extensions and MCP servers.
 
 ---
