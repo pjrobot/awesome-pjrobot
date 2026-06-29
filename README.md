@@ -24,7 +24,11 @@ A curated list of software and tools I use and recommend.
 
 ## Development
 
+- [Next.js](https://nextjs.org/) — Free, open-source React framework by Vercel for building full-stack web applications. Provides file-system routing, server and client rendering, server actions, and built-in optimisations for images, fonts, and scripts.
+- [Python](https://www.python.org/) — Free, open-source general-purpose programming language known for its readable syntax and vast ecosystem. Widely used for web development, machine learning, scientific computing, automation, and scripting.
+- [React](https://react.dev/) — Free, open-source JavaScript library by Meta for building user interfaces from reusable components. Uses JSX, hooks for state management, and supports both client and server rendering.
 - [Rust](https://www.rust-lang.org/) — Free, open-source systems programming language focused on performance, reliability, and memory safety without a garbage collector. Its ownership model eliminates whole classes of bugs at compile time, making it well-suited for CLI tools, networking, WebAssembly, and embedded systems.
+- [TypeScript](https://www.typescriptlang.org/) — Free, open-source superset of JavaScript by Microsoft that adds static type checking. Catches errors at compile time, improves editor tooling, and compiles to standard JavaScript that runs anywhere.
 - [VS Code](https://code.visualstudio.com/) — Free, open-source code editor by Microsoft. Supports 80+ languages with intelligent completions, an integrated terminal, debugger, and Git. Highly extensible via a large marketplace of extensions and MCP servers.
 
 ---
