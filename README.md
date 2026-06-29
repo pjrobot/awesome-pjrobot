@@ -7,6 +7,7 @@ A curated list of software and tools I use and recommend.
 ## Contents
 
 - [AI](#ai)
+- [Networking](#networking)
 - [Photography](#photography)
 - [Security & Privacy](#security--privacy)
 - [Web & Hosting](#web--hosting)
@@ -16,6 +17,12 @@ A curated list of software and tools I use and recommend.
 ## AI
 
 - [Claude](https://claude.ai/) — AI assistant by Anthropic. Capable across writing, coding, analysis, and reasoning, with a large context window and a focus on being helpful, harmless, and honest.
+
+---
+
+## Networking
+
+- [Tailscale](https://tailscale.com/) — Zero-config mesh VPN built on WireGuard. Connects all your devices and servers into a private network that works across NAT and firewalls, with identity-based access control. Free for personal use.
 
 ---
 
