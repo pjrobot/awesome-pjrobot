@@ -9,6 +9,7 @@ A curated list of software and tools I use and recommend.
 - [AI](#ai)
 - [Photography](#photography)
 - [Security & Privacy](#security--privacy)
+- [Web & Hosting](#web--hosting)
 
 ---
 
@@ -27,3 +28,9 @@ A curated list of software and tools I use and recommend.
 ## Security & Privacy
 
 - [Cryptomator](https://cryptomator.org/) — Free, open-source client-side encryption for cloud storage. Creates password-protected vaults that encrypt your files and filenames locally before they ever reach Google Drive, Dropbox, OneDrive, or any other cloud provider. Desktop is free; mobile apps are a one-time purchase.
+
+---
+
+## Web & Hosting
+
+- [Porkbun](https://porkbun.com/) — Affordable domain registrar with 500+ TLDs and free WHOIS privacy, SSL certificates, and email forwarding included with every domain. Competitive pricing with no upsells for standard privacy and security features.
