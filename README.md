@@ -23,6 +23,7 @@ A curated list of software and tools I use and recommend.
 
 ## Infrastructure
 
+- [Ansible](https://docs.ansible.com/) — Free, open-source IT automation platform by Red Hat. Uses agentless, human-readable playbooks to provision servers, configure systems, and manage infrastructure at any scale — from a homelab to large deployments.
 - [Porkbun](https://porkbun.com/) — Affordable domain registrar with 500+ TLDs and free WHOIS privacy, SSL certificates, and email forwarding included with every domain. Competitive pricing with no upsells for standard privacy and security features.
 - [Proxmox](https://www.proxmox.com/en/) — Open-source virtualisation platform for running VMs and containers with a web-based management interface. Supports clustering, high availability, and built-in backup. Free to use; enterprise support subscriptions available.
 - [Tailscale](https://tailscale.com/) — Zero-config mesh VPN built on WireGuard. Connects all your devices and servers into a private network that works across NAT and firewalls, with identity-based access control. Free for personal use.
