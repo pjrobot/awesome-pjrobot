@@ -6,8 +6,15 @@ A curated list of software and tools I use and recommend.
 
 ## Contents
 
+- [AI](#ai)
 - [Photography](#photography)
 - [Security & Privacy](#security--privacy)
+
+---
+
+## AI
+
+- [Claude](https://claude.ai/) — AI assistant by Anthropic. Capable across writing, coding, analysis, and reasoning, with a large context window and a focus on being helpful, harmless, and honest.
 
 ---
 
