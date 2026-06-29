@@ -7,6 +7,7 @@ A curated list of software and tools I use and recommend.
 ## Contents
 
 - [AI](#ai)
+- [Development](#development)
 - [Infrastructure](#infrastructure)
 - [Media](#media)
 - [Security & Privacy](#security--privacy)
@@ -18,6 +19,12 @@ A curated list of software and tools I use and recommend.
 - [Claude](https://claude.ai/) — AI assistant by Anthropic. Capable across writing, coding, analysis, and reasoning, with a large context window and a focus on being helpful, harmless, and honest.
 - [Claude Code](https://claude.com/product/claude-code) — Agentic coding tool by Anthropic. Reads your codebase, edits files, runs terminal commands, and integrates with Git and GitHub to handle full development tasks from natural language instructions. Available as a CLI and in VS Code, JetBrains, and the browser.
 - [Hermes Agent](https://hermes-agent.nousresearch.com/) — Open-source AI assistant by Nous Research with persistent memory and multi-platform support (Telegram, Discord, Slack, WhatsApp, Signal, and more). Handles automation, task delegation via subagents, and web browsing. MIT licensed with optional paid tiers for additional model credits.
+
+---
+
+## Development
+
+- [VS Code](https://code.visualstudio.com/) — Free, open-source code editor by Microsoft. Supports 80+ languages with intelligent completions, an integrated terminal, debugger, and Git. Highly extensible via a large marketplace of extensions and MCP servers.
 
 ---
 
