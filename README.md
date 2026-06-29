@@ -16,6 +16,7 @@ A curated list of software and tools I use and recommend.
 ## AI
 
 - [Claude](https://claude.ai/) — AI assistant by Anthropic. Capable across writing, coding, analysis, and reasoning, with a large context window and a focus on being helpful, harmless, and honest.
+- [Claude Code](https://claude.com/product/claude-code) — Agentic coding tool by Anthropic. Reads your codebase, edits files, runs terminal commands, and integrates with Git and GitHub to handle full development tasks from natural language instructions. Available as a CLI and in VS Code, JetBrains, and the browser.
 
 ---
 
