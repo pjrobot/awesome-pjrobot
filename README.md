@@ -19,6 +19,7 @@ A curated list of software and tools I use and recommend.
 - [Claude](https://claude.ai/) — AI assistant by Anthropic. Capable across writing, coding, analysis, and reasoning, with a large context window and a focus on being helpful, harmless, and honest.
 - [Claude Code](https://claude.com/product/claude-code) — Agentic coding tool by Anthropic. Reads your codebase, edits files, runs terminal commands, and integrates with Git and GitHub to handle full development tasks from natural language instructions. Available as a CLI and in VS Code, JetBrains, and the browser.
 - [Hermes Agent](https://hermes-agent.nousresearch.com/) — Open-source AI assistant by Nous Research with persistent memory and multi-platform support (Telegram, Discord, Slack, WhatsApp, Signal, and more). Handles automation, task delegation via subagents, and web browsing. MIT licensed with optional paid tiers for additional model credits.
+- [Ollama](https://ollama.com/) — Free, open-source tool for running large language models locally. Provides a simple CLI and API for pulling, running, and serving models like Llama, Mistral, and Gemma on your own hardware, with no cloud dependency or data leaving your machine.
 
 ---
 
@@ -36,6 +37,7 @@ A curated list of software and tools I use and recommend.
 ## Infrastructure
 
 - [Ansible](https://docs.ansible.com/) — Free, open-source IT automation platform by Red Hat. Uses agentless, human-readable playbooks to provision servers, configure systems, and manage infrastructure at any scale — from a homelab to large deployments.
+- [Backblaze](https://www.backblaze.com/) — Cloud storage provider offering B2 object storage and unlimited-data Personal Backup for computers. Simple, low-cost pricing with no minimums and free egress to many CDN and compute partners. Popular as an offsite backup target for NAS and homelab setups.
 - [Porkbun](https://porkbun.com/) — Affordable domain registrar with 500+ TLDs and free WHOIS privacy, SSL certificates, and email forwarding included with every domain. Competitive pricing with no upsells for standard privacy and security features.
 - [Proxmox](https://www.proxmox.com/en/) — Open-source virtualisation platform for running VMs and containers with a web-based management interface. Supports clustering, high availability, and built-in backup. Free to use; enterprise support subscriptions available.
 - [Raspberry Pi](https://www.raspberrypi.com/) — Affordable, UK-designed single-board computers and microcontrollers built for makers, hobbyists, and embedded applications. A popular foundation for homelabs, self-hosted services, automation projects, and classroom computing.
