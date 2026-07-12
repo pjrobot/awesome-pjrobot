@@ -20,6 +20,7 @@ A curated list of software and tools I use and recommend.
 - [Claude Code](https://claude.com/product/claude-code) — Agentic coding tool by Anthropic. Reads your codebase, edits files, runs terminal commands, and integrates with Git and GitHub to handle full development tasks from natural language instructions. Available as a CLI and in VS Code, JetBrains, and the browser.
 - [Hermes Agent](https://hermes-agent.nousresearch.com/) — Open-source AI assistant by Nous Research with persistent memory and multi-platform support (Telegram, Discord, Slack, WhatsApp, Signal, and more). Handles automation, task delegation via subagents, and web browsing. MIT licensed with optional paid tiers for additional model credits.
 - [Ollama](https://ollama.com/) — Free, open-source tool for running large language models locally. Provides a simple CLI and API for pulling, running, and serving models like Llama, Mistral, and Gemma on your own hardware, with no cloud dependency or data leaving your machine.
+- [Speaches](https://speaches.ai/) — Free, open-source, OpenAI API-compatible server for speech-to-text and text-to-speech, self-hosted via Docker. Uses faster-whisper for transcription and Piper/Kokoro for speech synthesis, with streaming support, voice activity detection, and dynamic model loading. Works as a drop-in with existing OpenAI-compatible tooling.
 
 ---
 
