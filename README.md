@@ -26,6 +26,7 @@ A curated list of software and tools I use and recommend.
 
 ## Development
 
+- [code-server](https://coder.com/) — Free, open-source tool that runs VS Code on a remote server, accessible through the browser. Lets you code from any device with a consistent environment, keeping compute, dependencies, and files off your local machine. Self-hosted via Docker or binary install.
 - [Next.js](https://nextjs.org/) — Free, open-source React framework by Vercel for building full-stack web applications. Provides file-system routing, server and client rendering, server actions, and built-in optimisations for images, fonts, and scripts.
 - [Python](https://www.python.org/) — Free, open-source general-purpose programming language known for its readable syntax and vast ecosystem. Widely used for web development, machine learning, scientific computing, automation, and scripting.
 - [React](https://react.dev/) — Free, open-source JavaScript library by Meta for building user interfaces from reusable components. Uses JSX, hooks for state management, and supports both client and server rendering.
